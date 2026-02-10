@@ -15,7 +15,7 @@ Insight 2 - Employees working overtime show a noticeably higher attrition count 
 
 Insight 3 - Employees working overtime show a noticeably higher attrition count compared to those without overtime.
 
-✅ Recommendations
+✅ Recommendations...
 Recommendation 1 - HR should prioritize retention programs for these roles by introducing clearer career progression paths, role-based incentives, and skill development opportunities.
 
 Recommendation 2 - Introduce department-specific engagement strategies such as workload optimization, recognition programs, and periodic role rotation to reduce burnout and job fatigue.
